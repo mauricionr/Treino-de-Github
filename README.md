@@ -9,11 +9,17 @@ Repositório para você poder treinar a utilização do Git/Github.
 2. Clonar na sua máquina
     `git clone {url}.git` 
 3. Adicionar o reposiório oficial com upstream
+
 4. Criar um branch: dev-SEUGithubUSERNAME
+
 5. Criar um branch: feature-SEUGithubUSERNAME
+
 6. Crie um arquivo chamado: doc-SEUGithubUSERNAME.md
+
 7. Adicione-o para commitar usando o [link para sua **issue**](https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests) para demonstrar que fechou-a.
+
 8. Faça o merge desse branch com o feature-BASE, que já virá junto
+
 9. Mude para o branch dev-SEUGithubUSERNAME
 10. Faça o merge do seu `feature` para o `dev`
 11. Envie um **pull request** do seu branch dev
